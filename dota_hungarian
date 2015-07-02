@@ -187,149 +187,149 @@
 		"DOTA_Tooltip_modifier_aphotic_shield_stack_counter_Description"					"Valahányszor elérhető egy töltés, varázsolhatsz Aphotic Shieldet"
 
 		"DOTA_Tooltip_modifier_borrowed_time"												"Borrowed Time"
-		"DOTA_Tooltip_modifier_borrowed_time_Description"									"Az Abaddont érő mindn sebzés gyógyítja őt"
+		"DOTA_Tooltip_modifier_borrowed_time_Description"									"Az Abaddont érő minden sebzés gyógyítja őt"
 
 		"DOTA_Tooltip_modifier_borrowed_time_allies"										"Borrowed Time"
 		"DOTA_Tooltip_modifier_borrowed_time_allies_Description"							"Az összes elszenvedett sebzés 35%-a átirányítódik Abaddonra"
 
 		"DOTA_Tooltip_modifier_imba_antimage_spell_shield_active"							"Spell Shield"
-		"DOTA_Tooltip_modifier_imba_antimage_spell_shield_active_Description"				"Increased magic resistance for a short duration"
+		"DOTA_Tooltip_modifier_imba_antimage_spell_shield_active_Description"				"Növeli Anti-Mage mágiasebzés-ellenállását egy rövid ideig"
 
 		"DOTA_Tooltip_modifier_imba_mana_void_ministun"										"Mana Void"
-		"DOTA_Tooltip_modifier_imba_mana_void_ministun_Description"							"Stunned by Anti-mage's mana void"
+		"DOTA_Tooltip_modifier_imba_mana_void_ministun_Description"							"Megbénít Anti Mage Mana Voidja"
 
 		"DOTA_Tooltip_modifier_axe_berserkers_call"											"Berserker's Call"
-		"DOTA_Tooltip_modifier_axe_berserkers_call_Description"								"Taunted by Axe; forced to attack, with bonus attack speed"
+		"DOTA_Tooltip_modifier_axe_berserkers_call_Description"								"Kigúnyolt Axe; arra kényszerítve, hogy őt támadd, többlet támadási sebességgel"
 
 		"DOTA_Tooltip_modifier_imba_axe_battle_hunger_caster"								"Battle Hunger"
-		"DOTA_Tooltip_modifier_imba_axe_battle_hunger_caster_Description"					"Gaining speed from enemies affected with Battle Hunger"
+		"DOTA_Tooltip_modifier_imba_axe_battle_hunger_caster_Description"					"Többlet mozgási sebességet kapsz, a Battle Hunger alatt lévő ellenséges egységekből"
 		"DOTA_Tooltip_modifier_imba_axe_battle_hunger_enemy"								"Battle Hunger"
-		"DOTA_Tooltip_modifier_imba_axe_battle_hunger_enemy_Description"					"Slowed, taking damage, and unable to regenerate HP naturally until you kill an enemy"
+		"DOTA_Tooltip_modifier_imba_axe_battle_hunger_enemy_Description"					"Lassabb mozgássebesség, időarányos sebződés, és meggátolt életpont regenerálódás még meg nem ölsz egy egységet"
 
 		"DOTA_Tooltip_modifier_imba_axe_culling_blade_sprint"								"Culling Blade"
-		"DOTA_Tooltip_modifier_imba_axe_culling_blade_sprint_Description"					"CULLED! Axe's manly display of force makes you stronger!"
+		"DOTA_Tooltip_modifier_imba_axe_culling_blade_sprint_Description"					"Axe csatakiáltása minden közeli szövetséges számára mozgási és támadási sebességbónuszt biztosít"
 
 		"DOTA_Tooltip_modifier_imba_bane_enfeeble"											"Enfeeble"
-		"DOTA_Tooltip_modifier_imba_bane_enfeeble_Description"								"Attributes and attack damage reduced"
+		"DOTA_Tooltip_modifier_imba_bane_enfeeble_Description"								"Csökkentett tulajdonsáok és táadási sebzés"
 
 		"DOTA_Tooltip_modifier_imba_bane_brain_sap"											"Addlebrained"
-		"DOTA_Tooltip_modifier_imba_bane_brain_sap_Description"								"Spending extra mana to cast spells"
+		"DOTA_Tooltip_modifier_imba_bane_brain_sap_Description"								"A varázslatok többlet manapontba kerülnek"
 
 		"DOTA_Tooltip_modifier_imba_bane_nightmare"											"Nightmare"
-		"DOTA_Tooltip_modifier_imba_bane_nightmare_Description"								"Unable to act due to terrible nightmares. Will wake up upon taking damage"
+		"DOTA_Tooltip_modifier_imba_bane_nightmare_Description"								"Képtelen cselekedni a szörnyű rémálmok miatt. Amint sebzést kapsz, felébredsz"
 		"DOTA_Tooltip_modifier_imba_bane_nightmare_invul"									"Nightmare invulnerability"
-		"DOTA_Tooltip_modifier_imba_bane_nightmare_invul_Description"						"Briefly invulnerable while nightmared"
+		"DOTA_Tooltip_modifier_imba_bane_nightmare_invul_Description"						"Sebezhetetlen vagy Nightmare közben"
 
 		"DOTA_Tooltip_modifier_imba_bane_fiends_grip"										"Fiend's Grip"
-		"DOTA_Tooltip_modifier_imba_bane_fiends_grip_Description"							"Gripped by Bane's dreadful conjurations and unable to act"
+		"DOTA_Tooltip_modifier_imba_bane_fiends_grip_Description"							"A megálmaid képtelenné teszik a cselekvést"
 
 		"DOTA_Tooltip_modifier_imba_shuriken_toss_chain"									"Shuriken Toss"
-		"DOTA_Tooltip_modifier_imba_shuriken_toss_chain_Description"						"Chained to the ground by Bounty Hunter's Shuriken"
+		"DOTA_Tooltip_modifier_imba_shuriken_toss_chain_Description"						"Bounti Hunter Shurikenje a földhöz láncolt"
 
 		"DOTA_Tooltip_modifier_imba_wind_walk_fade"											"Shadow Walk"
-		"DOTA_Tooltip_modifier_imba_wind_walk_fade_Description"								"Invisible to enemies, gaining damage and move speed"
+		"DOTA_Tooltip_modifier_imba_wind_walk_fade_Description"								"Láthatatlan vagy az ellenségeid számára, többlet sebzést és mozgási sebességet kapva"
 		"DOTA_Tooltip_modifier_imba_wind_walk"												"Shadow Walk"
-		"DOTA_Tooltip_modifier_imba_wind_walk_Description"									"Invisible to enemies, gaining damage and move speed"
+		"DOTA_Tooltip_modifier_imba_wind_walk_Description"									"Láthatatlan vagy az ellenségeid számára, többlet sebzést és mozgási sebességet kapva"
 
 		"DOTA_Tooltip_modifier_imba_track_aura"												"Track"
-		"DOTA_Tooltip_modifier_imba_track_aura_Description"									"Unable to go invisible, and granting vision to the enemy team"
+		"DOTA_Tooltip_modifier_imba_track_aura_Description"									"Az ellenségeknek látómezejük, és igazlátásuk van feletted"
 		"DOTA_Tooltip_modifier_imba_track_speed"											"Track"
-		"DOTA_Tooltip_modifier_imba_track_speed_Description"								"Gaining move speed due to a nearby tracked target"
+		"DOTA_Tooltip_modifier_imba_track_speed_Description"								"Többlet mozgási sebességet kapsz a közelben lévő Trackelt célpont miatt"
 
 		"DOTA_Tooltip_modifier_imba_hoof_stomp"												"Hoof Stomp"
-		"DOTA_Tooltip_modifier_imba_hoof_stomp_Description"									"Stunned by Centaur's mighty hoof stomp"
+		"DOTA_Tooltip_modifier_imba_hoof_stomp_Description"									"Megbénít Centaur Hoof Stompja"
 
 		"DOTA_Tooltip_modifier_imba_centaur_stampede"										"Stampede"
-		"DOTA_Tooltip_modifier_imba_centaur_stampede_Description"							"Hasted, phased, and trampling enemies"
+		"DOTA_Tooltip_modifier_imba_centaur_stampede_Description"							"Maximális sebességgel áthaladhatsz az ellenséges egységeken sebezve őket"
 
 		"DOTA_Tooltip_modifier_imba_centaur_stampede_debuff"								"Stampede"
-		"DOTA_Tooltip_modifier_imba_centaur_stampede_debuff_Description"					"Trampled by a stampeded enemy and stunned for the duration"
+		"DOTA_Tooltip_modifier_imba_centaur_stampede_debuff_Description"					"Eltaposott egy Stampede alatt álló ellenség, és megbénított"
 
 		"DOTA_Tooltip_modifier_imba_crystal_nova_slow"										"Crystal Nova"
-		"DOTA_Tooltip_modifier_imba_crystal_nova_slow_Description"							"Slowed by Crystal Maiden's icy blast"
+		"DOTA_Tooltip_modifier_imba_crystal_nova_slow_Description"							"Crystal Maiden jeges robbantása lelassít"
 
 		"DOTA_Tooltip_modifier_imba_frostbite_root"											"Frostbite"
-		"DOTA_Tooltip_modifier_imba_frostbite_root_Description"								"Frozen! Rooted in place, unable to attack"
+		"DOTA_Tooltip_modifier_imba_frostbite_root_Description"								"Megfagyva! Mozgás és támadásképtelen vagy."
 
 		"DOTA_Tooltip_modifier_imba_frostbite_passive"										"Frostbite ready"
-		"DOTA_Tooltip_modifier_imba_frostbite_passive_Description"							"The next enemy to attack Crystal Maiden will be frozen"
+		"DOTA_Tooltip_modifier_imba_frostbite_passive_Description"							"A következő ellenség, aki megtámadja Crystal Maident, megfagy"
 
 		"DOTA_Tooltip_modifier_imba_frostbite_passive_cooldown"								"Frostbite cooldown"
-		"DOTA_Tooltip_modifier_imba_frostbite_passive_cooldown_Description"					"Frostbite is recharging and will be ready in some seconds"
+		"DOTA_Tooltip_modifier_imba_frostbite_passive_cooldown_Description"					"A Frostbite újratöltődik, és pár másodperc múlva használható lesz"
 
 		"DOTA_Tooltip_modifier_imba_brilliance_aura_effect"									"Brilliance Aura"
-		"DOTA_Tooltip_modifier_imba_brilliance_aura_effect_Description"						"Gaining bonus mana and mana regeneration in Crystal Maiden's presence"
+		"DOTA_Tooltip_modifier_imba_brilliance_aura_effect_Description"						"Crystal Maiden jelenlétében többlet manapontot és manaponttöltődést kapsz"
 
 		"DOTA_Tooltip_modifier_imba_freezing_field_debuff"									"Freezing Field"
-		"DOTA_Tooltip_modifier_imba_freezing_field_debuff_Description"						"Slowed due to freezing field's icy howling winds"
+		"DOTA_Tooltip_modifier_imba_freezing_field_debuff_Description"						"A Freezing Field jeges szelei lelassítanak"
 
 		"DOTA_Tooltip_modifier_imba_freezing_field_debuff_scepter"							"Freezing Field"
-		"DOTA_Tooltip_modifier_imba_freezing_field_debuff_scepter_Description"				"Slowed due to freezing field's icy howling winds"
+		"DOTA_Tooltip_modifier_imba_freezing_field_debuff_scepter_Description"				"A Freezing Field jeges szelei lelassítanak"
 
 		"DOTA_Tooltip_modifier_imba_shallow_grave"											"Shallow Grave"
-		"DOTA_Tooltip_modifier_imba_shallow_grave_Description"								"Protected from death for the duration"
+		"DOTA_Tooltip_modifier_imba_shallow_grave_Description"								"Halhatatlan vagy e képesség időtartamáig"
 
 		"DOTA_Tooltip_modifier_imba_shallow_grave_scepter"									"Nothl Protection"
-		"DOTA_Tooltip_modifier_imba_shallow_grave_scepter_Description"						"Automatically triggers Shallow Grave if Dazzle is mortally wounded"
+		"DOTA_Tooltip_modifier_imba_shallow_grave_scepter_Description"						"Automatikusan a Shallow Grave hatása alá kerülsz, ha végzetes ebződést kapnál"
 
 		"DOTA_Tooltip_modifier_imba_shallow_grave_scepter_cooldown"							"Protection cooldown"
-		"DOTA_Tooltip_modifier_imba_shallow_grave_scepter_cooldown_Description"				"Nothl Protection is recharging and will be ready soon"
+		"DOTA_Tooltip_modifier_imba_shallow_grave_scepter_cooldown_Description"				"A Nothl Protection újratöltődik, és pár másodperc múlva használható lesz"
 
 		"DOTA_Tooltip_modifier_imba_shadow_wave_armor_bonus"								"Shadow Wave"
-		"DOTA_Tooltip_modifier_imba_shadow_wave_armor_bonus_Description"					"Gaining bonus armor"
+		"DOTA_Tooltip_modifier_imba_shadow_wave_armor_bonus_Description"					"Többlet páncélt kapsz"
 
 		"DOTA_Tooltip_modifier_imba_shadow_wave_armor_reduction"							"Shadow Wave"
-		"DOTA_Tooltip_modifier_imba_shadow_wave_armor_reduction_Description"				"Armor reduced by Dazzle's Shadow Wave"
+		"DOTA_Tooltip_modifier_imba_shadow_wave_armor_reduction_Description"				"Csökkentett páncél Dazzle Shadow Wave-jének köszönhetően"
 
 		"DOTA_Tooltip_modifier_imba_weave_friendly"											"Weave"
-		"DOTA_Tooltip_modifier_imba_weave_friendly_Description"								"Gaining increased armor over time"
+		"DOTA_Tooltip_modifier_imba_weave_friendly_Description"								"Többlet páncélt kapsz másodpercenként"
 
 		"DOTA_Tooltip_modifier_imba_weave_enemy"											"Weave"
-		"DOTA_Tooltip_modifier_imba_weave_enemy_Description"								"Losing armor over time"
+		"DOTA_Tooltip_modifier_imba_weave_enemy_Description"								"Másodpercenként csökken a páncélod"
 
 		"DOTA_Tooltip_modifier_imba_frost_arrows_slow_stacks"								"Frost Arrows Slow"
-		"DOTA_Tooltip_modifier_imba_frost_arrows_slow_stacks_Description"					"Slowed by icy arrows. If enough stacks accumulate, you will be frozen in place"
+		"DOTA_Tooltip_modifier_imba_frost_arrows_slow_stacks_Description"					"A jeges nyilak lassítanak. Ha elegendő jeges nyíl halmozódik föl, megfagysz"
 		"DOTA_Tooltip_modifier_imba_frost_arrows_frozen"									"Frost Arrows Freeze"
-		"DOTA_Tooltip_modifier_imba_frost_arrows_frozen_Description"						"Frozen in place by Drow Ranger's icy arrows"
+		"DOTA_Tooltip_modifier_imba_frost_arrows_frozen_Description"						"Drow Ranger jeges nyilai megfagyasztottak"
 
 		"DOTA_Tooltip_modifier_imba_drow_ranger_gust_debuff"								"Gust"
-		"DOTA_Tooltip_modifier_imba_drow_ranger_gust_debuff_Description"					"Silenced and slowed by a bone-chilling gust of wind"
+		"DOTA_Tooltip_modifier_imba_drow_ranger_gust_debuff_Description"					"A jeges fuvallat elhallgattat és lelassít"
 
 		"DOTA_Tooltip_modifier_imba_trueshot_damage_stack"									"Trueshot Aura"
-		"DOTA_Tooltip_modifier_imba_trueshot_damage_stack_Description"						"Gaining bonus damage due to Drow Ranger's teachings"
+		"DOTA_Tooltip_modifier_imba_trueshot_damage_stack_Description"						"Drow Ranger tanításai többletsebzést biztosítanak"
 
 		"DOTA_Tooltip_modifier_imba_marksmanship_effect"									"Marksmanship"
-		"DOTA_Tooltip_modifier_imba_marksmanship_effect_Description"						"Supreme calm and concentration improves Traxex's archery prowess"
+		"DOTA_Tooltip_modifier_imba_marksmanship_effect_Description"						"Traxex koncentrációja és nyugalma fejleszi az ílyász képességeit"
 
 		"DOTA_Tooltip_modifier_imba_marksmanship_effect_scepter"							"Marksmanship"
-		"DOTA_Tooltip_modifier_imba_marksmanship_effect_scepter_Description"				"Supreme calm and concentration improves Traxex's archery prowess"
+		"DOTA_Tooltip_modifier_imba_marksmanship_effect_scepter_Description"				"Traxex koncentrációja és nyugalma fejleszi az ílyász képességeit"
 
-		"DOTA_Tooltip_modifier_imba_dual_breath_fire"										"Breathe Fire"
-		"DOTA_Tooltip_modifier_imba_dual_breath_fire_Description"							"Taking damage per second due to Jakiro's Breathe Fire"
+		"DOTA_Tooltip_modifier_imba_dual_breath_fire"										"Dual Breath"
+		"DOTA_Tooltip_modifier_imba_dual_breath_fire_Description"							"Másodpercenkénti sebzést szenvedsz el a Breath Fire miatt"
 
 		"DOTA_Tooltip_modifier_imba_liquid_fire"											"Liquid Fire"
-		"DOTA_Tooltip_modifier_imba_liquid_fire_Description"								"Attacking and turning slower and taking damage per second"
+		"DOTA_Tooltip_modifier_imba_liquid_fire_Description"								"Másodpercenkénti sebzést szenvedsz el, és lassabban fordulsz és támadsz"
 
 		"DOTA_Tooltip_modifier_imba_macropyre"												"Macropyre"
-		"DOTA_Tooltip_modifier_imba_macropyre_Description"									"You're on fire! Taking damage per second"
+		"DOTA_Tooltip_modifier_imba_macropyre_Description"									"Égsz! Másodpercenkénti sebzést szenvedsz el"
 
 		"DOTA_Tooltip_modifier_imba_macropyre_scepter"										"Macropyre"
-		"DOTA_Tooltip_modifier_imba_macropyre_scepter_Description"							"You're on fire, and frozen! Jakiro doesn't give a fuck. Taking damage per second and slowed"
+		"DOTA_Tooltip_modifier_imba_macropyre_scepter_Description"							"Égsz és meg vagy fagyva! Jakiro nem szarral gurigázik. Másodpercenkénti sebzést szenvedsz el és lassabb vagy"
 
 		"DOTA_Tooltip_modifier_imba_torrent_slow"											"Torrent"
-		"DOTA_Tooltip_modifier_imba_torrent_slow_Description"								"Slowed by Kunkka's Torrent"
+		"DOTA_Tooltip_modifier_imba_torrent_slow_Description"								"Kunkka Torrentja lelassít"
 
 		"DOTA_Tooltip_modifier_imba_tidebringer_low_tide"									"Low Tide"
-		"DOTA_Tooltip_modifier_imba_tidebringer_low_tide_Description"						"Tidebringer/Torrent have no extra effect."
+		"DOTA_Tooltip_modifier_imba_tidebringer_low_tide_Description"						"Nincs változás a képességeken"
 
 		"DOTA_Tooltip_modifier_imba_tidebringer_high_tide"									"High Tide"
-		"DOTA_Tooltip_modifier_imba_tidebringer_high_tide_Description"						"Tidebringer/Torrent will deal extra damage on a larger AOE."
+		"DOTA_Tooltip_modifier_imba_tidebringer_high_tide_Description"						"Többlet hatósugarat és sebzést kap a Tidebringer és a Torrent"
 
 		"DOTA_Tooltip_modifier_imba_tidebringer_wave_break"									"Wave Break"
-		"DOTA_Tooltip_modifier_imba_tidebringer_wave_break_Description"						"Tidebringer will not trigger its cooldown; Torrent will launch instantly."
+		"DOTA_Tooltip_modifier_imba_tidebringer_wave_break_Description"						"A Tidebringer egyből újratöltődik; A Torrent egyből kilő"
 
 		"DOTA_Tooltip_modifier_imba_tidebringer_tsunami"									"Tsunami"
-		"DOTA_Tooltip_modifier_imba_tidebringer_tsunami_Description"						"Tidebringer will briefly stun enemies hit; Torrent will gain bonus damage, AOE, and drag enemies into its center."
+		"DOTA_Tooltip_modifier_imba_tidebringer_tsunami_Description"						"A Tidebringer bénítja az ellenségeket találatkor; A Torrent többlet sebzést és hatósugarat kap, az eltalált ellenségeket a közepére húzva"
 
 		"DOTA_Tooltip_modifier_imba_tidebringer_knockup"									"Tidebringer"
 		"DOTA_Tooltip_modifier_imba_tidebringer_knockup_Description"						"Knocked up by Kunkka's Tidebringer"
