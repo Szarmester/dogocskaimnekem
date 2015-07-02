@@ -175,7 +175,7 @@
 		//=================================================================================================================
 
 		"DOTA_Tooltip_modifier_frostmourne_debuff"											"Curse of Avernus"
-		"DOTA_Tooltip_modifier_frostmourne_debuff_Description"								"Slowed and granting bonus attack speed to attackers"
+		"DOTA_Tooltip_modifier_frostmourne_debuff_Description"								"Lassabb mozgássebesség, és a támadóid többlet támadássebességet kapnak"
 
 		"DOTA_Tooltip_modifier_frostmourne_buff"											"Curse of Avernus"
 		"DOTA_Tooltip_modifier_frostmourne_buff_Description"								"Gaining bonus move and attack speed due to attacking Abaddon's target"
