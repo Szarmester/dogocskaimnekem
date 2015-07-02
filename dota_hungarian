@@ -330,147 +330,147 @@
 
 		"DOTA_Tooltip_modifier_imba_tidebringer_tsunami"									"Tsunami"
 		"DOTA_Tooltip_modifier_imba_tidebringer_tsunami_Description"						"A Tidebringer bénítja az ellenségeket találatkor; A Torrent többlet sebzést és hatósugarat kap, az eltalált ellenségeket a közepére húzva"
-//*
+
 		"DOTA_Tooltip_modifier_imba_tidebringer_knockup"									"Tidebringer"
-		"DOTA_Tooltip_modifier_imba_tidebringer_knockup_Description"						"Knocked up by Kunkka's Tidebringer"
+		"DOTA_Tooltip_modifier_imba_tidebringer_knockup_Description"						"Kunkka Tidebringere a levegőbe ütött"
 
 		"DOTA_Tooltip_modifier_imba_x_marks_the_spot"										"X marks the spot"
-		"DOTA_Tooltip_modifier_imba_x_marks_the_spot_Description"							"Will return to the marked spot after the duration is over"
+		"DOTA_Tooltip_modifier_imba_x_marks_the_spot_Description"							"Az időtartam lejártával visszakerülsz a kezdeti pontba"
 
 		"DOTA_Tooltip_modifier_imba_ghostship_rum"											"The Admiral's Rum"
-		"DOTA_Tooltip_modifier_imba_ghostship_rum_Description"								"Inebriated by Kunkka's rum. Part of the damage you take will only be felt later."
+		"DOTA_Tooltip_modifier_imba_ghostship_rum_Description"								"Kunkka rumja lerészegített. Az elszenvedett sebzés egy részét csak később fogod megérezni"
 
 		"DOTA_Tooltip_modifier_imba_ghostship_rum_scepter"									"The Admiral's Rum"
-		"DOTA_Tooltip_modifier_imba_ghostship_rum_scepter_Description"						"Inebriated by Kunkka's rum. Part of the damage you take will only be felt later."
+		"DOTA_Tooltip_modifier_imba_ghostship_rum_scepter_Description"						"Kunkka rumja lerészegített. Az elszenvedett sebzés egy részét csak később fogod megérezni"
 
 		"DOTA_Tooltip_modifier_imba_ghostship_rum_damage"									"The Admiral's Rum"
-		"DOTA_Tooltip_modifier_imba_ghostship_rum_damage_Description"						"Feeling Kunkka's rum's hangover. Feeling the damage that was dealt earlier."
+		"DOTA_Tooltip_modifier_imba_ghostship_rum_damage_Description"						"Kunkka rumjától másnapos vagy. Az előzőleg elszenvedett sebzés most fejti ki hatását"
 
 		"DOTA_Tooltip_modifier_imba_frost_nova"												"Frost Nova"
-		"DOTA_Tooltip_modifier_imba_frost_nova_Description"									"Attack and movement slowed"
+		"DOTA_Tooltip_modifier_imba_frost_nova_Description"									"Lassabb támadási és mozgási sebesség"
 
 		"DOTA_Tooltip_modifier_imba_frost_nova_stacks"										"Frost Aura"
-		"DOTA_Tooltip_modifier_imba_frost_nova_stacks_Description"							"Slowed, taking damage, and risking being blasted with Frost Nova"
+		"DOTA_Tooltip_modifier_imba_frost_nova_stacks_Description"							"Lassabb támadási és mozgási sebesség, másodpercenkénti sebződés, és egyre növekszik annak az esélye, hogy eltaláljon egy Frost Nova"
 
 		"DOTA_Tooltip_modifier_imba_frost_armor"											"Ice Armor"
-		"DOTA_Tooltip_modifier_imba_frost_armor_Description"								"Gaining bonus armor and slowing attackers"
+		"DOTA_Tooltip_modifier_imba_frost_armor_Description"								"Többlet páncélod van és a támadóid lelassulnak"
 
 		"DOTA_Tooltip_modifier_imba_frost_armor_slow"										"Ice Armor"
-		"DOTA_Tooltip_modifier_imba_frost_armor_slow_Description"							"Slowed due to attacking a target protected by Ice Armor"
+		"DOTA_Tooltip_modifier_imba_frost_armor_slow_Description"							"A megtámadott ellenségen lévő Ice Armor lelassít"
 
 		"DOTA_Tooltip_modifier_imba_chain_frost"											"Chain Frost"
-		"DOTA_Tooltip_modifier_imba_chain_frost_Description"								"Slowed by Chain Frost"
+		"DOTA_Tooltip_modifier_imba_chain_frost_Description"								"A Chain Frost lelassít"
 
 		"DOTA_Tooltip_modifier_imba_light_strike_array"										"Light Strike Array"
-		"DOTA_Tooltip_modifier_imba_light_strike_array_Description"							"Stunned and immune to further Light Strike Array damage"
+		"DOTA_Tooltip_modifier_imba_light_strike_array_Description"							"Megbénultál, és immunis vagy a további Light Strike Array-ek sebzésére"
 
 		"DOTA_Tooltip_modifier_imba_fiery_soul"												"Fiery Soul"
-		"DOTA_Tooltip_modifier_imba_fiery_soul_Description"									"Gaining bonus movement and attack speed"
+		"DOTA_Tooltip_modifier_imba_fiery_soul_Description"									"Többlet mozgási és támadási sebesség"
 
 		"DOTA_Tooltip_modifier_imba_fiery_soul_active"										"Immolation"
-		"DOTA_Tooltip_modifier_imba_fiery_soul_active_Description"							"Spells cool down faster, but cost more mana"
+		"DOTA_Tooltip_modifier_imba_fiery_soul_active_Description"							"A varázslatok hamarabb töltődnek újra, viszont több manapontba kerülnek"
 
 		"DOTA_Tooltip_modifier_imba_leap"													"Leap"
-		"DOTA_Tooltip_modifier_imba_leap_Description"										"Increased move and attack speed"
+		"DOTA_Tooltip_modifier_imba_leap_Description"										"Többlet mozgási és támadási sebesség"
 
 		"DOTA_Tooltip_modifier_imba_moonlight_duration"										"Moonlight Shadow"
-		"DOTA_Tooltip_modifier_imba_moonlight_duration_Description"							"Invisible until you attack or use an ability"
+		"DOTA_Tooltip_modifier_imba_moonlight_duration_Description"							"Láthatatlan vagy még nem támadsz, vagy használsz képességet"
 
 		"DOTA_Tooltip_modifier_imba_death_pulse_buff_stack"									"Death Pulse"
-		"DOTA_Tooltip_modifier_imba_death_pulse_buff_stack_Description"						"Each stack increases Death Pulse's healing"
+		"DOTA_Tooltip_modifier_imba_death_pulse_buff_stack_Description"						"A halmozódó töltetek erősítik a Death Pulse gyógyítását"
 
 		"DOTA_Tooltip_modifier_imba_death_pulse_debuff_stack"								"Death Pulse"
-		"DOTA_Tooltip_modifier_imba_death_pulse_debuff_stack_Description"					"Each stack increases Death Pulse's damage"
+		"DOTA_Tooltip_modifier_imba_death_pulse_debuff_stack_Description"					"A halmozódó töltetek erősítik a Death Pulse sebzését"
 
 		"DOTA_Tooltip_modifier_imba_heartstopper_visibility_dummy"							"Heartstopper Aura"
-		"DOTA_Tooltip_modifier_imba_heartstopper_visibility_dummy_Description"				"Losing health over time. The effect grows stronger if you don't leave its area"
+		"DOTA_Tooltip_modifier_imba_heartstopper_visibility_dummy_Description"				"Az életerőd egyre nagyobb százalékát veszíted el másodpercenként"
 
 		"DOTA_Tooltip_modifier_imba_sadist_stack"											"Sadist"
-		"DOTA_Tooltip_modifier_imba_sadist_stack_Description"								"Regenerating health and mana"
+		"DOTA_Tooltip_modifier_imba_sadist_stack_Description"								"Életerő és manapont visszatöltődés"
 
 		"DOTA_Tooltip_modifier_imba_reapers_scythe"											"Reaper's Scythe"
-		"DOTA_Tooltip_modifier_imba_reapers_scythe_Description"								"You're fucked"
+		"DOTA_Tooltip_modifier_imba_reapers_scythe_Description"								"Meg vagy baszva."
 
 		"DOTA_Tooltip_modifier_imba_void"													"Void"
-		"DOTA_Tooltip_modifier_imba_void_Description"										"Crippled. Night Stalker knows exactly where you are"
+		"DOTA_Tooltip_modifier_imba_void_Description"										"Lassabb támadási, mozgási sebeség, és az ellenfelek látnak"
 
 		"DOTA_Tooltip_modifier_imba_crippling_fear_day"										"Slight Scare"
-		"DOTA_Tooltip_modifier_imba_crippling_fear_day_Description"							"Silenced and blinded for a short time"
+		"DOTA_Tooltip_modifier_imba_crippling_fear_day_Description"							"El vagy hallgattatva és célt tévesztesz"
 
 		"DOTA_Tooltip_modifier_imba_crippling_fear_night"									"Crippling Fear"
-		"DOTA_Tooltip_modifier_imba_crippling_fear_night_Description"						"Blind, unable to use items or abilities"
+		"DOTA_Tooltip_modifier_imba_crippling_fear_night_Description"						"Célt tévesztesz és nem használhatsz képességeket vagy tárgyakat"
 
 		"DOTA_Tooltip_modifier_imba_darkness"												"Darkness"
-		"DOTA_Tooltip_modifier_imba_darkness_Description"									"Vision range reduced"
+		"DOTA_Tooltip_modifier_imba_darkness_Description"									"Kisebb látómező"
 
 		"DOTA_Tooltip_modifier_imba_darkness_enemy_vision"									"Darksight"
-		"DOTA_Tooltip_modifier_imba_darkness_enemy_vision_Description"						"Night Stalker can see you"
+		"DOTA_Tooltip_modifier_imba_darkness_enemy_vision_Description"						"Night Stalker lát téged"
 
 		"DOTA_Tooltip_modifier_imba_spiked_carapaced_stun"									"Spiked Carapace"
-		"DOTA_Tooltip_modifier_imba_spiked_carapaced_stun_Description"						"Stunned by Nyx's spiked carapace"
+		"DOTA_Tooltip_modifier_imba_spiked_carapaced_stun_Description"						"Megbénultál Nyx Assassint támadva"
 
 		"DOTA_Tooltip_modifier_imba_vendetta"												"Vendetta"
-		"DOTA_Tooltip_modifier_imba_vendetta_Description"									"Invisible. Your next attack will deal bonus damage"
+		"DOTA_Tooltip_modifier_imba_vendetta_Description"									"Láthatatlan vagy. A következő támadásod többlet sebzést fog bevinni"
 
 		"DOTA_Tooltip_modifier_imba_vendetta_damage_stacks"									"Stored Damage"
-		"DOTA_Tooltip_modifier_imba_vendetta_damage_stacks_Description"						"Amount of bonus damage to be dealt on the next Vendetta strike"
+		"DOTA_Tooltip_modifier_imba_vendetta_damage_stacks_Description"						"Ennyi többlet sebzést fogsz bevinni a következő Vendettával"
 
 		"DOTA_Tooltip_modifier_imba_obsidian_destroyer_int_gain"							"Ill Omens"
-		"DOTA_Tooltip_modifier_imba_obsidian_destroyer_int_gain_Description"				"Total intelligence stolen from enemy heroes"
+		"DOTA_Tooltip_modifier_imba_obsidian_destroyer_int_gain_Description"				"Ennyi intelligenciát loptál az ellenségektől"
 
 		"DOTA_Tooltip_modifier_imba_obsidian_destroyer_int_steal"							"FUCK YOUR INT"
-		"DOTA_Tooltip_modifier_imba_obsidian_destroyer_int_steal_Description"				"Total intelligence stollen by Outworld Devourer"
+		"DOTA_Tooltip_modifier_imba_obsidian_destroyer_int_steal_Description"				"Ennyi intelligenciát lopott tőled Outranger Denominator"
 
 		"DOTA_Tooltip_modifier_imba_astral_imprisonment"									"Astral Imprisonment"
-		"DOTA_Tooltip_modifier_imba_astral_imprisonment_Description"						"Invulnerable, but unable to act"
+		"DOTA_Tooltip_modifier_imba_astral_imprisonment_Description"						"Sebezhetetlen vagy, de nem cselekedhetsz"
 
 		"DOTA_Tooltip_modifier_imba_essence_aura_buff"										"Essence Aura"
-		"DOTA_Tooltip_modifier_imba_essence_aura_buff_Description"							"Casting a spell will recover part of your total mana"
+		"DOTA_Tooltip_modifier_imba_essence_aura_buff_Description"							"Varázslatok használata visszatölti a manapontjaid egy részét"
 
 		"DOTA_Tooltip_modifier_imba_purification_passive"									"Omniguard"
-		"DOTA_Tooltip_modifier_imba_purification_passive_Description"						"Automatically healed by Purification when dealt a fatal hit"
+		"DOTA_Tooltip_modifier_imba_purification_passive_Description"						"Automatikusan visszatölt életerőpontokat a Purification, ha végzetes sebzést kapnál"
 
 		"DOTA_Tooltip_modifier_imba_purification_passive_cooldown"							"Omniguard Cooldown"
-		"DOTA_Tooltip_modifier_imba_purification_passive_cooldown_Description"				"Omniguard is recharging"
+		"DOTA_Tooltip_modifier_imba_purification_passive_cooldown_Description"				"Az Omniguard újratölt"
 
 		"DOTA_Tooltip_modifier_imba_repel"													"Repel"
-		"DOTA_Tooltip_modifier_imba_repel_Description"										"Immune to most spells' effects"
+		"DOTA_Tooltip_modifier_imba_repel_Description"										"Immunis vagy a legtöbb varázslatra"
 
 		"DOTA_Tooltip_modifier_imba_degen_aura_str"											"Degen Aura"
-		"DOTA_Tooltip_modifier_imba_degen_aura_str_Description"								"Amount of strength lost to Degen Aura"
+		"DOTA_Tooltip_modifier_imba_degen_aura_str_Description"								"Ennyi erőt vesztettél a Degen Aura által"
 
 		"DOTA_Tooltip_modifier_imba_degen_aura_agi"											"Degen Aura"
-		"DOTA_Tooltip_modifier_imba_degen_aura_agi_Description"								"Amount of agility lost to Degen Aura"
+		"DOTA_Tooltip_modifier_imba_degen_aura_agi_Description"								"Ennyi ügyességet vesztettél a Degen Aura által"
 
 		"DOTA_Tooltip_modifier_imba_degen_aura_int"											"Degen Aura"
-		"DOTA_Tooltip_modifier_imba_degen_aura_int_Description"								"Amount of intelligence lost to Degen Aura"
+		"DOTA_Tooltip_modifier_imba_degen_aura_int_Description"								"Ennyi intelligenciát vesztettél a Degen Aura által"
 
 		"DOTA_Tooltip_modifier_imba_guardian_angel"											"Guardian Angel"
-		"DOTA_Tooltip_modifier_imba_guardian_angel_Description"								"Immune to physical damage"
+		"DOTA_Tooltip_modifier_imba_guardian_angel_Description"								"Immunis vagy a fizikai sebződésre"
 
 		"DOTA_Tooltip_modifier_imba_stifling_dagger_slow"									"Stifling Dagger"
-		"DOTA_Tooltip_modifier_imba_stifling_dagger_slow_Description"						"Silenced, slowed, and granting vision to enemies"
+		"DOTA_Tooltip_modifier_imba_stifling_dagger_slow_Description"						"El vagy hallgattatva, le vagy lassítva és az ellenségek látnak"
 
 		"DOTA_Tooltip_modifier_imba_phantom_strike"											"Phantom Strike"
-		"DOTA_Tooltip_modifier_imba_phantom_strike_Description"								"Gaining attack speed for a short duration"
+		"DOTA_Tooltip_modifier_imba_phantom_strike_Description"								"Többlet támadási sebességed vagy egy kis ideig"
 
 		"DOTA_Tooltip_modifier_imba_blur_enemy"												"Blur"
-		"DOTA_Tooltip_modifier_imba_blur_enemy_Description"									"Enemies heroes are nearby. No longer hidden on the minimap"
+		"DOTA_Tooltip_modifier_imba_blur_enemy_Description"									"Ellenséges hősök vannak a közelben, látszol a minitérképen"
 
 		"DOTA_Tooltip_modifier_imba_blur_stacks"											"Immaterial"
-		"DOTA_Tooltip_modifier_imba_blur_stacks_Description"								"Gaining bonus evasion and movement speed"
+		"DOTA_Tooltip_modifier_imba_blur_stacks_Description"								"Többlet elkerülési esélyed és mozgási sebességed van"
 
 		"DOTA_Tooltip_modifier_imba_coup_de_grace_stacks"									"Dance of Death"
-		"DOTA_Tooltip_modifier_imba_coup_de_grace_stacks_Description"						"Current chance to crit. Attacking heroes refreshes the buff"
+		"DOTA_Tooltip_modifier_imba_coup_de_grace_stacks_Description"						"Ennyi esélyed van, a kritikus találatra. Ellenséges hősöket támadva újrakezdődik ez a hatás"
 
 		"DOTA_Tooltip_modifier_imba_shadow_strike_base_slow"								"Shadow Strike"
-		"DOTA_Tooltip_modifier_imba_shadow_strike_base_slow_Description"					"Slowed and taking damage"
+		"DOTA_Tooltip_modifier_imba_shadow_strike_base_slow_Description"					"Le vagy lassulva és másodpercenkénti sebzést szenvedsz el"
 
 		"DOTA_Tooltip_modifier_imba_confusion"												"Disoriented"
-		"DOTA_Tooltip_modifier_imba_confusion_Description"									"Attacking or casting spells will result in damage"
+		"DOTA_Tooltip_modifier_imba_confusion_Description"									"Ha támadsz vagy varázslatot használsz sebzést fogsz elszenvedni"
 
 		"DOTA_Tooltip_modifier_imba_sonic_wave_daze"										"Dazed"
-		"DOTA_Tooltip_modifier_imba_sonic_wave_daze_Description"							"Moving erratically and taking extra damage"
+		"DOTA_Tooltip_modifier_imba_sonic_wave_daze_Description"							"Kiszámíthatatlanul mozogsz és többletsebzést szenvedsz el"
 
 		//=================================================================================================================
 		// Ability descriptions
@@ -488,42 +488,42 @@
 		"DOTA_Tooltip_ability_attribute_bonus_agi"											"Attribute Bonus (AGI)"
 
 		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike"								"Shadow Strike"
-		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_Description"					"Hurls a poisoned dagger which deals large initial damage, and then slows the target, while dealing damage over time. \n<font color='#FF7800'>Queen of Pain has a chance of casting Shadow Strike on every attack.</font>"
-		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_Note0"							"Does not allow denies on afflicted heroes."
-		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_Lore"							"Akasha's envenomed dagger allows her to delight in the drawn out suffering of her victims."
-		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_strike_damage"					"STRIKE DAMAGE:"
-		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_duration_damage"				"DAMAGE OVER TIME:"
-		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_movement_slow"					"%INITIAL SLOW:"
-		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_duration_tooltip"				"DURATION:"
-		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_strike_chance"					"%CHANCE TO CAST ON ATTACK:"
+		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_Description"					"Elhajít egy mérgezett tőrt, mely nagy kezdeti, majd időarányos sebzést okoz. A megmérgezett egység mozgási sebessége lecsökken. A sebződés 3 másodpercenként történik. \n<font color='#FF7800'>Queen of Pain minden támadással elhajíthat egy tőrt.</font>"
+		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_Note0"							"A hatása alatt álló hősöket nem lehet beáldozni."
+		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_Lore"							"Akasha mérgezett tőrei lehetővé teszik számára, hogy élvezze áldozatai elnyújtott szenvedését."
+		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_strike_damage"					"KEZDETI SEBZÉS:"
+		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_duration_damage"				"IDŐEGYSÉGENKÉNTI SEBZÉS:"
+		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_movement_slow"					"%KEZDETI LASSÍTÁS:"
+		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_duration_tooltip"				"IDŐTARTAM:"
+		"DOTA_Tooltip_ability_imba_queenofpain_shadow_strike_strike_chance"					"%ESÉLY ELHAJÍTÁSRA TÁMADÁSONKÉNT:"
 
 		"DOTA_Tooltip_ability_imba_queenofpain_blink"										"Blink"
-		"DOTA_Tooltip_ability_imba_queenofpain_blink_Description"							"Short distance teleportation that allows Queen of Pain to move in and out of combat. \n<font color='#FF7800'>Releases a half-damage Scream of Pain on the start and end point of Blink.</font>"
-		"DOTA_Tooltip_ability_imba_queenofpain_blink_Lore"									"The Secret Queen lives up to her title, making her Pain impossible to escape."
-		"DOTA_Tooltip_ability_imba_queenofpain_blink_blink_range"							"MAXIMUM DISTANCE:"
-		"DOTA_Tooltip_ability_imba_queenofpain_blink_confused_duration"						"DISORIENTATION DURATION:"
+		"DOTA_Tooltip_ability_imba_queenofpain_blink_Description"							"Rövidtávú teleportáció, mellyel Queen of Pain könnyen beszállhat a harcba, és elhagyhatja azt. \n<font color='#FF7800'>A kezdeti és végpontban egy félszeres erősségű Scream of Paint varázsol.</font>"
+		"DOTA_Tooltip_ability_imba_queenofpain_blink_Lore"									"A Titkos Királynő nevéhez méltón lehetetlenné teszi, hogy elmenekülj a fájdalma elől."
+		"DOTA_Tooltip_ability_imba_queenofpain_blink_blink_range"							"MAXIMUM TÁVOLSÁG:"
+		"DOTA_Tooltip_ability_imba_queenofpain_blink_confused_duration"						"ÖSSZEZAVARTSÁG IDŐTARTAMA:"
 
 		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain"								"Scream of Pain"
-		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_Description"					"The Queen of Pain lets loose a piercing scream around her, damaging \n<font color='#FF7800'>and disorienting</font> nearby enemies. \n<font color='#FF7800'>Disoriented enemies are off-balance and confused, taking damage every time they attack or cast a spell.</font>"
-		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_Note0"						"Disorientation deals damage at the start of an attack, or at the end of an ability cast."
-		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_Lore"							"The sultry voice of Akasha beckons her opponents while stealing their souls."
-		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_area_of_effect"				"RADIUS:"
-		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_confusion_duration"			"DISORIENTATION DURATION:"
-		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_confusion_damage"				"DISORIENTATION DAMAGE:"
+		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_Description"					"Queen of Pain fültépő sikítása sebzi \n<font color='#FF7800'>és összezavarja</font> a körülötte lévő ellenségeket.\n<font color='#FF7800'>Az összezavart ellenségek elvesztik az egyensújérzéküket és ha támadnak vagy varázslatot használnak sebzést szenvednek el.</font>"
+		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_Note0"						"Az összezavartság minden támadás elején és minden varázslat végén viszi be a sebzést."
+		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_Lore"							"Akasha búgó hangja hívogatja ellenfeleit, miközben ellopja lelkeiket."
+		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_area_of_effect"				"HATÓSUGÁR:"
+		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_confusion_duration"			"ÖSSZEZAVARTSÁG IDŐTARTAMA:"
+		"DOTA_Tooltip_ability_imba_queenofpain_scream_of_pain_confusion_damage"				"ÖSSZEZAVARTSÁG SEBZÉSE:"
 
 		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave"									"Sonic Wave"
-		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_Description"						"Creates a gigantic wave of sound in front of Queen of Pain, heavily damaging \n<font color='#FF7800'>and dazing</font> all enemies in its wake. \n<font color='#FF7800'>Dazed enemies are temporarily deafened, resulting in erratic movement and a increase in damage taken.</font>"
-		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_Note0"							"A dazed target has a chance to deviate from its intended path on every step."
-		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_Lore"								"Her most exquisite of all of torments, Akasha's Sonic Wave puts her poor foes out of their misery."
-		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_distance"							"TRAVEL DISTANCE:"
-		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_starting_aoe"						"STARTING RADIUS:"
-		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_final_aoe"						"FINAL RADIUS:"
-		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_damage"							"DAMAGE:"
-		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_damage_scepter"					"SCEPTER DAMAGE:"
-		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_debuff_duration"					"DAZE DURATION:"
-		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_damage_increase"					"%DAZE DAMAGE INCREASE:"
-		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_aghanim_description"				"Each hero hit by Sonic Wave now generates a scream of pain, which hits any other nearby units."
-
+		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_Description"						"Egy óriási hanghullámot hoz létre Queen of Pain előtt, mely erős sebzést \n<font color='#FF7800'>és kábulatot</font> okoz az útjába kerülő ellenséges egységekben. \n<font color='#FF7800'>A kábult ellenségek megsüketülnek és akadozik a mozgásuk, miközben többletsebzést szenvednek el.</font>"
+		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_Note0"							"A kábult ellenségek minden lépésükkel letérhetnek a kijelölt útjukról."
+		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_Lore"								"A Sonic Wave, Akasha legkiválóbb kínzóeszköze, véget vet szerencsétlen ellenfelei szenvedésének."
+		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_distance"							"HATÓTÁV:"
+		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_starting_aoe"						"KEZDETI SZÉLESSÉG:"
+		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_final_aoe"						"VÉGLEGES SZÉLESSÉG:"
+		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_damage"							"SEBZÉS:"
+		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_damage_scepter"					"SCEPTERES SEBZÉS:"
+		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_debuff_duration"					"KÁBULAT IDŐTARTAM:"
+		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_damage_increase"					"%KÁBULAT TÖBBLETSEBZÉS:"
+		"DOTA_Tooltip_ability_imba_queenofpain_sonic_wave_aghanim_description"				"Minden eltalált ellenség egy Scream of Paint varázsol maga körül, tovább sebezve ezzel társait."
+//*
 		"DOTA_Tooltip_ability_imba_abaddon_death_coil"										"Death Coil"
 		"DOTA_Tooltip_ability_imba_abaddon_death_coil_Description"							"Abaddon releases a coil of deathly mist that can damage an enemy unit or heal a friendly unit <font color='#FF7800'>while healing Abaddon himself.</font>"
 		"DOTA_Tooltip_ability_imba_abaddon_death_coil_Note0"								"Applies a stack of Curse of Avernus to the target."
