@@ -13,7 +13,7 @@
 		--
 		"imba_instructions_title"															"Üdv a Dota IMBA-ban!"
 
-		"npc_dota_hero_abaddon_instructions_body"											"A változtatások <font color='#FF7800'>ilyen színnel vannak jelölve.</font> \nA te Aghanim's Scepter fejlesztésed: \n\n<font color='#00BB50'>Növeli a Borrowed Time időtartamát, és ha aktív, Abaddon sebződése gyógyítja a közeli szövetséges hősöket.</font>\n\n<font color='#FF7800'>HAVE FUN!</font>"
+		"npc_dota_hero_abaddon_instructions_body"											"<font color='#FF7800'></font> \nA te Aghanim's Scepter fejlesztésed: \n\n<font color='#00BB50'>Növeli a Borrowed Time időtartamát, és ha aktív, Abaddon sebződése gyógyítja a közeli szövetséges hősöket.</font>\n\n<font color='#FF7800'>HAVE FUN!</font>"
 		"npc_dota_hero_antimage_instructions_body"											"A változtatások <font color='#FF7800'>ilyen színnel vannak jelölve.</font> \nA te Aghanim's Scepter fejlesztésed: \n\n<font color='#00BB50'>Megduplázza a Mana Void által elégetett mana mennyiségét.</font>\n\n<font color='#FF7800'>JÓ JÁTÉKOT!</font>"
 		"npc_dota_hero_axe_instructions_body"												"A változtatások <font color='#FF7800'>ilyen színnel vannak jelölve.</font> \nA te Aghanim's Scepter fejlesztésed: \n\n<font color='#00BB50'>Növeli a Culling Blade ölési küszöbét, és az ölési küszöböt növelő életpontok arányát.</font>\n\n<font color='#FF7800'>JÓ JÁTÉKOT!</font>"
 		"npc_dota_hero_bane_instructions_body"												"A változtatások <font color='#FF7800'>ilyen színnel vannak jelölve.</font> \nA te Aghanim's Scepter fejlesztésed: \n\n<font color='#00BB50'>Növeli a Fiend's Grip időtartamát, sebzését, és manaszívását. Az ellenségek, akik Bane felé fordulnak, szintén a Fiend's Grip hatása alá kerülnek.</font>\n\n<font color='#FF7800'>JÓ JÁTÉKOT!</font>"
