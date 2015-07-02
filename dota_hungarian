@@ -175,22 +175,22 @@
 		//=================================================================================================================
 
 		"DOTA_Tooltip_modifier_frostmourne_debuff"											"Curse of Avernus"
-		"DOTA_Tooltip_modifier_frostmourne_debuff_Description"								"Lassabb mozgássebesség, és a támadóid többlet támadássebességet kapnak"
+		"DOTA_Tooltip_modifier_frostmourne_debuff_Description"								"Lassabb mozgási sebesség. Minden támadó egység támadási és mozgási sebességbónuszt kap"
 
 		"DOTA_Tooltip_modifier_frostmourne_buff"											"Curse of Avernus"
-		"DOTA_Tooltip_modifier_frostmourne_buff_Description"								"Gaining bonus move and attack speed due to attacking Abaddon's target"
+		"DOTA_Tooltip_modifier_frostmourne_buff_Description"								"Abaddon célpontját támadva többlet mozgási és támadási sebességet kapsz"
 
 		"DOTA_Tooltip_modifier_aphotic_shield"												"Aphotic Shield"
-		"DOTA_Tooltip_modifier_aphotic_shield_Description"									"Incoming damage blocked by Aphotic Shield's protection"
+		"DOTA_Tooltip_modifier_aphotic_shield_Description"									"A beérkező sebzést kivédi az Aphotic Shield"
 
-		"DOTA_Tooltip_modifier_aphotic_shield_stack_counter"								"Shield charges"
-		"DOTA_Tooltip_modifier_aphotic_shield_stack_counter_Description"					"Able to cast Aphotic Shield whenever there is a charge"
+		"DOTA_Tooltip_modifier_aphotic_shield_stack_counter"								"Shield töltések"
+		"DOTA_Tooltip_modifier_aphotic_shield_stack_counter_Description"					"Valahányszor elérhető egy töltés, varázsolhatsz Aphotic Shieldet"
 
 		"DOTA_Tooltip_modifier_borrowed_time"												"Borrowed Time"
-		"DOTA_Tooltip_modifier_borrowed_time_Description"									"Being healed by all incoming damage"
+		"DOTA_Tooltip_modifier_borrowed_time_Description"									"Az Abaddont érő mindn sebzés gyógyítja őt"
 
 		"DOTA_Tooltip_modifier_borrowed_time_allies"										"Borrowed Time"
-		"DOTA_Tooltip_modifier_borrowed_time_allies_Description"							"Redirecting part of incoming damage to Abaddon"
+		"DOTA_Tooltip_modifier_borrowed_time_allies_Description"							"Az összes elszenvedett sebzés 35%-a átirányítódik Abaddonra"
 
 		"DOTA_Tooltip_modifier_imba_antimage_spell_shield_active"							"Spell Shield"
 		"DOTA_Tooltip_modifier_imba_antimage_spell_shield_active_Description"				"Increased magic resistance for a short duration"
