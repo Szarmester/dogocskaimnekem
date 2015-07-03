@@ -216,7 +216,7 @@
 		"DOTA_Tooltip_modifier_imba_bane_brain_sap_Description"								"A varázslatok többlet manapontba kerülnek"
 
 		"DOTA_Tooltip_modifier_imba_bane_nightmare"											"Nightmare"
-		"DOTA_Tooltip_modifier_imba_bane_nightmare_Description"								"Képtelen cselekedni a szörnyű rémálmok miatt. Amint sebzést kapsz, felébredsz"
+		"DOTA_Tooltip_modifier_imba_bane_nightmare_Description"								"Képtelen vagy cselekedni a szörnyű rémálmok miatt. Amint sebzést kapsz, felébredsz"
 		"DOTA_Tooltip_modifier_imba_bane_nightmare_invul"									"Nightmare invulnerability"
 		"DOTA_Tooltip_modifier_imba_bane_nightmare_invul_Description"						"Sebezhetetlen vagy Nightmare közben"
 
@@ -1182,11 +1182,13 @@
 
 		"DOTA_Tooltip_ability_imba_night_stalker_hunter_in_the_night"										"Hunter in the Night"
 		"DOTA_Tooltip_ability_imba_night_stalker_hunter_in_the_night_Description"							"Night Stalker is in his element at night, attacking and moving with great swiftness. \n<font color='#FF7800'>Hunter in the Night's bonuses increase every time Darkness is cast.</font>"
+		"DOTA_Tooltip_ability_imba_night_stalker_hunter_in_the_night_Note0"									"Night vision is capped at 4000 units, after all Hunter in the Night and Darkness bonuses."
 		"DOTA_Tooltip_ability_imba_night_stalker_hunter_in_the_night_Lore"									"The hunting prowess of Balanar improves as the night beckons."
 		"DOTA_Tooltip_ability_imba_night_stalker_hunter_in_the_night_bonus_movement_speed_pct_night"		"%MOVE SPEED BONUS:"
 		"DOTA_Tooltip_ability_imba_night_stalker_hunter_in_the_night_bonus_attack_speed_night"				"ATTACK SPEED BONUS:"
 		"DOTA_Tooltip_ability_imba_night_stalker_hunter_in_the_night_stacking_move_speed"					"%MOVE SPEED PER DARKNESS CAST:"
 		"DOTA_Tooltip_ability_imba_night_stalker_hunter_in_the_night_stacking_attack_speed"					"ATTACK SPEED PER DARKNESS CAST:"
+		"DOTA_Tooltip_ability_imba_night_stalker_hunter_in_the_night_stacking_night_vision"					"NIGHT VISION PER DARKNESS CAST:"
 
 		"DOTA_Tooltip_ability_imba_night_stalker_darkness"									"Darkness"
 		"DOTA_Tooltip_ability_imba_night_stalker_darkness_Description"						"Night Stalker smothers the sun and summons instant darkness. <font color='#FF7800'>When Darkness is cast, enemy heroes are briefly revealed,</font> and while it is in effect, all enemy units have their vision range reduced to 675."
@@ -1721,14 +1723,18 @@
 		"DOTA_Tooltip_ability_item_imba_belt_of_strength_Lore"						"A valued accessory for improving vitality."
 		"DOTA_Tooltip_ability_item_imba_belt_of_strength_bonus_strength"			"+$str"
 		
-		"DOTA_Tooltip_ability_item_imba_bfury_Description"							"Passive: Cleave - Deals a percent of attack damage in a %cleave_radius% area around the target. Ranged units cannot Cleave."
+		"DOTA_Tooltip_ability_item_imba_bfury_Description"							"Active: Chop - Destroy a target tree or ward.\nPassive: Quell - Increases attack damage against non-hero units, based on whether the equipped hero is ranged or melee. Does not provide bonus damage against Roshan.\nPassive: Cleave - Deals a percent of attack damage in a %cleave_radius% area around the target. Ranged units cannot Cleave."
 		"DOTA_Tooltip_ability_item_imba_bfury_Lore"									"The bearer of this mighty axe gains the ability to cut down swaths of enemies at once."
 		"DOTA_Tooltip_ability_item_imba_bfury_Note0"								"Cleave damage is reduced by armor type but not by armor value."
 		"DOTA_Tooltip_ability_item_imba_bfury_Note1"								"Cleave damage goes through spell immunity."
+		"DOTA_Tooltip_ability_item_imba_bfury_Note2"								"If multiple sources of Cleave are present, each Cleave's damage is applied separately."
 		"DOTA_Tooltip_ability_item_imba_bfury_bonus_damage"							"+$damage"
 		"DOTA_Tooltip_ability_item_imba_bfury_bonus_health_regen"					"+$hp_regen"
 		"DOTA_Tooltip_ability_item_imba_bfury_bonus_mana_regen"						"%+$mana_regen"
 		"DOTA_Tooltip_ability_item_imba_bfury_cleave_damage_percent"				"%CLEAVE DAMAGE:"
+		"DOTA_Tooltip_ability_item_imba_bfury_quelling_bonus"						"%QUELL MELEE DAMAGE:"
+		"DOTA_Tooltip_ability_item_imba_bfury_quelling_bonus_ranged"				"%QUELL RANGED DAMAGE:"
+		"DOTA_Tooltip_ability_item_imba_bfury_cast_range_tooltip"					"CHOP CAST RANGE:"
 		
 		"DOTA_Tooltip_ability_item_imba_black_king_bar_Description"					"Active: Avatar - Grants Spell Immunity and 100% Magic Damage Resistance. Duration and cooldown decrease with each use.  Some Ultimate abilities are able to disable through Black King Bar."
 		"DOTA_Tooltip_ability_item_imba_black_king_bar_Lore"						"A powerful staff imbued with the strength of giants."
@@ -2337,7 +2343,7 @@
 		"DOTA_Tooltip_ability_item_imba_radiance_miss_stacking"						"%MISS INCREASE PER SECOND:"
 		"DOTA_Tooltip_ability_item_imba_radiance_bonus_damage"						"+$damage"		
 		
-		"DOTA_Tooltip_ability_item_imba_rapier_Description"							"Drops on death.\n<font color='#FF7800'>Amplifies ALL damage dealt by its owner. Multiple divine rapiers stack.</font>"
+		"DOTA_Tooltip_ability_item_imba_rapier_Description"							"Drops on death.\n<font color='#FF7800'>Amplifies ALL damage dealt by its owner. Multiple divine rapiers can stack in a single inventory slot.</font>"
 		"DOTA_Tooltip_ability_item_imba_rapier_Lore"								"So powerful, it cannot have a single owner."
 		"DOTA_Tooltip_ability_item_imba_rapier_damage"								"+$damage"
 		"DOTA_Tooltip_ability_item_imba_rapier_damage_amplify"						"%DAMAGE AMPLIFICATION:"
